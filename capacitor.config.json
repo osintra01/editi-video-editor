@@ -1,0 +1,6 @@
+{
+  "appId": "com.editi.studio",
+  "appName": "Editi",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
